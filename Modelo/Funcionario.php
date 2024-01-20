@@ -1,5 +1,6 @@
 <?php
 
+namespace Modelo;
 class Funcionario extends Pessoa
 {
     private string $cargo;

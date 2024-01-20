@@ -1,5 +1,6 @@
 <?php
 
+namespace Modelo\Conta;
 class Titular extends Pessoa
 {
     private Endereco $endereco;
